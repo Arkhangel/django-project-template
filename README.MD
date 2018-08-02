@@ -7,7 +7,7 @@ This is a simple Django 2.0+ project template for comfort starting.
 ## Features
 
 - Django 2.0+
-- PostgreSQL database support with psycopg2.
+- PostgreSQL database support with psycopg2-binary.
 
 ## How to install
 
