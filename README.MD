@@ -13,7 +13,7 @@ This is a simple Django 2.0+ project template for comfort starting.
 
 ```bash
 $ django-admin.py startproject \
-  --template=https://github.com/Arkhangel/djangotemplate/archive/master.zip \
+  --template=https://github.com/Arkhangel/django-project-template/archive/master.zip \
   project_name
 ```
 
