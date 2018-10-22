@@ -42,7 +42,7 @@ INSTALLED_APPS = [
 
     'src.apps.authentication',
     'src.apps.common',
-    'src.apps.{{ project_name }}',
+    'src.apps.core',
 ]
 
 MIDDLEWARE = [
